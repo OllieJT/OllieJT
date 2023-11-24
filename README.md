@@ -1,12 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ollie Taylor
-====================================================================================================================================
+# Hey, I'm Ollie.
 
-A multi­dimensional designer with a "healthy" obsession for code.
------------------------------------------------------------------
+A multi­dimensional *designer* with a "healthy" obsession for `code`.
 
-* 🇬🇧  I'm based in Windsor
-* 🖥️  See my portfolio at [My Website](http://olliejt.com/)
-* 🚀  I'm currently working on [svelte-podcast](http://www.svelte-podcast.com/)
+* 🇬🇧  I'm based in Windsor, UK
+* 🖥️  See my portfolio at [My Website](https://olliejt.com/)
+* 🚀  I'm currently working on [Knomii](https://www.knomii.com/)
+* 👨‍💻  I maintain [svelte-podcast](https://www.svelte-podcast.com/) and [@inqling/svelte-icons](https://github.com/Inqling/svelte-icons)
 
 ### Skills
 
